@@ -3887,7 +3887,7 @@ loc_3170:	;!MENU INICIAL
 loc_31AD:	;!MENU INICIAL DO CAMPEONATO MUNDIAL		(ORIGINAL 31B2)
 	txt "INICIAR  "
 	txt "CONTINUAR"
-	txt "NOME/PAIS"
+	txt "NOME/PAIS"		;!novo menu - verificar possivilidade de levar a uma tela unica
 	
 loc_31CD:	;!MENU DE CADA CORRIDA NO CAMPEONATO MUNDIAL	(ORIGINAL 31C4)
 	txt "TREINO LIVRE"
